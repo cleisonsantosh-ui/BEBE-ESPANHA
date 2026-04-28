@@ -1,0 +1,75 @@
+### SECCIÓN 1 — HEADER
+- [BOTÃO NAV]: ¡Quiero el Kit!
+
+### SECCIÓN 2 — HERO
+- [BADGE]: ✓ Recomendado por nutricionistas pediátricos
+- [H1]: Disfruta de la alimentación de tu bebé sin miedo a atragantamientos ni dudas.
+- [SUBTÍTULO]: Todo lo que necesitas para una introducción alimentaria segura, organizada y feliz. El método paso a paso que ya ayuda a cientos de mamás en España.
+- [BOTÃO CTA HERO]: EMPEZAR AHORA POR SOLO 37€
+
+### SECCIÓN 3 — BARRA DE PROVA SOCIAL
+- [NÚMERO 1]: +1.500 Mamás felices
+- [NÚMERO 2]: 25 Recetas exclusivas
+- [NÚMERO 3]: 3 Guías completas
+
+### SECCIÓN 4 — A DOR (IDENTIFICAÇÃO)
+- [HEADLINE DOR]: ¿Te sientes perdida o con miedo en esta nueva etapa?
+- [DOR CARD 1]: El miedo constante a que tu bebé se atragante al probar sólidos.
+- [DOR CARD 2]: No saber qué cocinar hoy que sea nutritivo y seguro para él.
+- [DOR CARD 3]: Sentir que no lo estás haciendo bien y la culpa te invade.
+- [FRASE DE VIRADA]: Es normal sentirse así, pero no tienes que pasar por esto sola.
+
+### SECCIÓN 5 — O QUE ESTÁ INCLUÍDO
+CARD 1 — Guía Completa (Guia Principal + Anti-Engasgo):
+- [BULLET 1]: Aprende el método BLW y Papillas sin confusiones.
+- [BULLET 2]: Guía visual de cortes seguros para evitar riesgos.
+- [BULLET 3]: Manual de primeros auxilios y prevención de atragantamientos.
+- [BULLET 4]: Entiende las señales de hambre y saciedad de tu bebé.
+
+CARD 2 — Planificador y Seguridad (Checklist + Calendário):
+- [BULLET 1]: Checklist detallado para introducir alérgenos con seguridad.
+- [BULLET 2]: Calendario de los primeros 30 días para no pensar qué dar.
+- [BULLET 3]: Planificador semanal de comidas para toda la familia.
+- [BULLET 4]: Lista de la compra optimizada para ahorrar tiempo y dinero.
+
+CARD 3 — Recetario (25 Receitas):
+- [BULLET 1]: 25 Recetas deliciosas probadas y aprobadas por bebés.
+- [BULLET 2]: Ideas de desayunos, comidas y cenas nutritivas.
+- [BULLET 3]: Opciones vegetarianas y ricas en hierro.
+- [BULLET 4]: Platos que tú también querrás comer, ¡cocina una sola vez!
+
+### SECCIÓN 6 — AUTORIDADE
+- [NOME]: Lucía Fernández
+- [CREDENCIAIS]: Nutricionista Pediátrica y Mamá de dos
+- [BIO CURTA]: He ayudado a miles de familias a transformar la hora de la comida en un momento de conexión y alegría. Mi misión es que tú también puedas vivir la alimentación complementaria con la seguridad y confianza que te mereces.
+
+### SECCIÓN 7 — DEPOIMENTOS
+DEPOIMENTO 1:
+- [NOME]: Elena G.
+- [TEXTO]: "Estaba aterrorizada con los trozos, pero la guía de cortes me dio la vida. Mi hijo de 8 meses come de todo y yo estoy súper tranquila. ¡Gracias!"
+
+DEPOIMENTO 2:
+- [NOME]: María R.
+- [TEXTO]: "Lo que más me gusta es el calendario de 30 días. Me ha quitado un peso de encima enorme, ya no tengo que pensar qué toca hoy. Súper práctico."
+
+DEPOIMENTO 3:
+- [NOME]: Carmen S.
+- [TEXTO]: "Por fin entiendo cómo introducir el huevo y los frutos secos sin entrar en pánico. La información es clara, directa y muy profesional."
+
+### SECCIÓN 8 — OFERTA (CTA PRINCIPAL)
+- [HEADLINE OFERTA]: Consigue el Kit 'Primeras Cucharadas' con un 50% de descuento hoy.
+- [ITEM 1]: Guía Completa de Introducción y Seguridad.
+- [ITEM 2]: Planificador de 30 Días y Checklist de Alérgenos.
+- [ITEM 3]: Recetario con 25 ideas nutritivas y rápidas.
+- [BOTÃO CTA FINAL]: SÍ, QUIERO EL KIT COMPLETO AHORA
+- [GARANTIA]: Tu compra está protegida. Tienes 7 días de garantía total para probar el material.
+
+### SECCIÓN 9 — FAQ
+- Objeção 1: "¿Funcionará para mi bebé?" -> Respuesta: Totalmente. El kit está adaptado para bebés desde los 6 meses, respetando su ritmo y desarrollo individual.
+- Objeção 2: "¿Necesito esto si ya veo Instagram?" -> Respuesta: En Instagram la info está suelta. Aquí tienes un método estructurado, paso a paso y verificado para no perder tiempo buscando.
+- Objeção 3: "¿Cómo recibo el producto?" -> Respuesta: Recibirás un acceso inmediato a tu email para descargar todos los archivos en formato PDF y verlos en cualquier dispositivo.
+- Objeção 4: "¿Si ya empezó a comer me sirve?" -> Respuesta: ¡Sí! Es ideal para corregir cortes, introducir nuevos sabores y organizar el menú semanal aunque ya hayáis empezado.
+- Objeção 5: "¿Y si no me gusta?" -> Respuesta: No te preocupes. Si sientes que no es para ti, nos escribes en los primeros 7 días y te devolvemos el 100% de tu dinero.
+
+### SECCIÓN 10 — FOOTER
+- [TAGLINE FOOTER]: Alimentación segura y feliz para tu bebé.
