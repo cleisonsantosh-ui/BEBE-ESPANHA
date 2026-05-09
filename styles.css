@@ -111,7 +111,7 @@ header {
     font-size: 1.2rem;
     color: var(--text-muted);
     max-width: 800px;
-    margin: 0 auto 40px;
+    margin: 0 auto 50px; /* Increased margin below text */
 }
 
 .cta-main {
@@ -132,6 +132,11 @@ header {
     background-color: var(--accent);
     transform: scale(1.05);
     box-shadow: 0 15px 30px rgba(230, 126, 34, 0.4);
+}
+
+/* Increased spacing for sections */
+section {
+    padding: 120px 0 !important; /* Global increase in section padding for better scannability */
 }
 
 .hero-image {
@@ -179,7 +184,7 @@ header {
 
 .section-header {
     text-align: center;
-    margin-bottom: 60px;
+    margin-bottom: 80px; /* Increased margin */
 }
 
 .section-header h2 {
@@ -627,9 +632,9 @@ footer {
     color: white;
     text-decoration: none;
     font-weight: 700;
-    padding: 12px 25px;
+    padding: 15px 35px; /* Larger padding */
     border-radius: 50px;
-    font-size: 1rem;
+    font-size: 1.1rem; /* Larger font */
     animation: pulse 2s infinite;
 }
 
@@ -665,4 +670,34 @@ footer {
     }
 
     .price { font-size: 3rem; }
+
+    /* Mobile specific dominance */
+    .cta-main {
+        width: 100%;
+        padding: 22px 20px;
+        font-size: 1.2rem;
+    }
+
+    section {
+        padding: 80px 0 !important; /* Adjust mobile padding */
+    }
+
+    .hero h1 {
+        margin-bottom: 20px;
+        font-size: 1.8rem; /* Slightly smaller to fit better */
+    }
+
+    .hero p {
+        margin-bottom: 30px;
+        font-size: 1rem;
+    }
+
+    .hero {
+        padding: 40px 0 !important; /* Tighter hero on mobile */
+    }
+
+    .badge {
+        font-size: 0.75rem;
+        padding: 6px 12px;
+    }
 }
