@@ -328,24 +328,84 @@ section {
 
 .testimonial-card {
     background: var(--white);
-    padding: 40px;
+    padding: 30px;
     border-radius: 24px;
     box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.testimonial-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.testimonial-avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--primary-light);
+}
+
+.verified-badge {
+    font-size: 0.75rem;
+    color: var(--secondary);
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
 
 .stars {
     color: #F1C40F;
-    margin-bottom: 15px;
 }
 
 .testimonial-card p {
     font-style: italic;
-    margin-bottom: 20px;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--text-dark);
 }
 
 .testimonial-name {
     font-weight: 700;
     color: var(--text-dark);
+    font-size: 1.1rem;
+    display: block;
+}
+
+/* Results Gallery */
+.results-gallery {
+    padding: 100px 0;
+    background: #FFF;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.gallery-item {
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    transition: transform 0.3s ease;
+    aspect-ratio: 1 / 1;
+}
+
+.gallery-item:hover {
+    transform: scale(1.02);
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* Offer */
@@ -648,56 +708,79 @@ footer {
     .mobile-sticky-cta {
         display: block;
     }
-}
 
-    .edu-grid, .trans-grid {
-        grid-template-columns: 1fr;
+    .container {
+        padding: 0 15px;
+    }
+
+    section {
+        padding: 60px 0 !important; /* Tighter spacing for mobile */
+    }
+
+    .hero {
+        padding: 40px 0 !important;
+    }
+
+    .hero h1 {
+        font-size: 1.8rem;
+        margin-bottom: 15px;
+    }
+
+    .hero p {
+        font-size: 1rem;
+        margin-bottom: 30px;
+    }
+
+    .edu-grid, .trans-grid, .testimonial-grid, .gallery-grid, .pain-grid {
+        grid-template-columns: 1fr !important;
+        gap: 20px;
+    }
+
+    .auth-container {
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+
+    .auth-image {
+        max-width: 250px;
+        margin: 0 auto;
     }
 
     .comp-table {
         display: block;
         overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
         white-space: nowrap;
+        font-size: 0.85rem;
     }
 
-    .auth-container { 
-        flex-direction: column; 
-        text-align: center; 
+    .offer-box {
+        padding: 30px 15px;
     }
 
-    .offer-box { 
-        padding: 30px 20px; 
+    .price {
+        font-size: 3rem;
     }
 
-    .price { font-size: 3rem; }
-
-    /* Mobile specific dominance */
     .cta-main {
         width: 100%;
-        padding: 22px 20px;
-        font-size: 1.2rem;
+        padding: 18px 20px;
+        font-size: 1.1rem;
     }
 
-    section {
-        padding: 80px 0 !important; /* Adjust mobile padding */
+    .footer-logo {
+        font-size: 1.3rem;
     }
 
-    .hero h1 {
-        margin-bottom: 20px;
-        font-size: 1.8rem; /* Slightly smaller to fit better */
+    .legal-links a {
+        display: block;
+        margin: 10px 0;
     }
+}
 
-    .hero p {
-        margin-bottom: 30px;
-        font-size: 1rem;
-    }
-
-    .hero {
-        padding: 40px 0 !important; /* Tighter hero on mobile */
-    }
-
-    .badge {
-        font-size: 0.75rem;
-        padding: 6px 12px;
-    }
+/* Fix for horizontal scroll on some devices */
+body {
+    width: 100%;
+    position: relative;
 }
